@@ -2,6 +2,9 @@ import { defineConfig } from 'cypress'
 
 
 
+
+
+
 export default defineConfig({
   fixturesFolder: false,
   reporter: "mochawesome",
